@@ -13,7 +13,7 @@
 </div>
 <div align="center">
     <h2>About me</h2>
-    <p>My full name is <b>Philip Krauß</b> and I'm from a small german town near <b>Stuttgart</b> (DE)<br>I started programming in 2016 and today, I'm (at least in java) a well experienced<br>developer. But I'll try my best to gain experience in every section of the digital world</p>
+    <p>My full name is <b>Philip Krauß</b> and I'm from a small german town near <b>Stuttgart</b><br>I started programming in 2016 and today, I'm (at least in java) a well experienced<br>developer. But I'll try my best to gain experience in every section of the digital world</p>
 </div>
 <div align="center">
     <p>I'm currently working on a <b>private project</b> to get rid of our collection of dvd's. This project<br>required me to dive deeply into
@@ -52,7 +52,7 @@
         <span>
             <img alt="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="16px" height="16px" style="position: absolute; margin: 4px" />
             <span style="margin-left: 26px"><b>Figma.</b></span>
-        </span>
+        </span><br><br>
         And that's where I am today.<br>Make sure to search through my GitHub-Profile to learn more about my recent projects :)  
     </p>    
 </div>
